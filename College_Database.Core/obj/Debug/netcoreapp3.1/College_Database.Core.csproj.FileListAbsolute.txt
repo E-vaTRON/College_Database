@@ -1,0 +1,11 @@
+C:\Users\onith\source\repos\College-Database\College_Database.Core\bin\Debug\netcoreapp3.1\College_Database.Core.deps.json
+C:\Users\onith\source\repos\College-Database\College_Database.Core\bin\Debug\netcoreapp3.1\College_Database.Core.dll
+C:\Users\onith\source\repos\College-Database\College_Database.Core\obj\Debug\netcoreapp3.1\College_Database.Core.AssemblyInfoInputs.cache
+C:\Users\onith\source\repos\College-Database\College_Database.Core\obj\Debug\netcoreapp3.1\College_Database.Core.AssemblyInfo.cs
+C:\Users\onith\source\repos\College-Database\College_Database.Core\bin\Debug\netcoreapp3.1\College_Database.Core.pdb
+C:\Users\onith\source\repos\College-Database\College_Database.Core\obj\Debug\netcoreapp3.1\College_Database.Core.dll
+C:\Users\onith\source\repos\College-Database\College_Database.Core\obj\Debug\netcoreapp3.1\College_Database.Core.pdb
+C:\Users\onith\source\repos\College-Database\College_Database.Core\bin\Debug\netcoreapp3.1\College_Database.Core.runtimeconfig.json
+C:\Users\onith\source\repos\College-Database\College_Database.Core\bin\Debug\netcoreapp3.1\College_Database.Core.runtimeconfig.dev.json
+C:\Users\onith\source\repos\College-Database\College_Database.Core\obj\Debug\netcoreapp3.1\College_Database.Core.genruntimeconfig.cache
+C:\Users\onith\source\repos\College-Database\College_Database.Core\obj\Debug\netcoreapp3.1\College_Database.Core.csproj.CoreCompileInputs.cache

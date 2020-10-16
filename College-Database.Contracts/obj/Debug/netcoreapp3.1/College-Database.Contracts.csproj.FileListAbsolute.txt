@@ -1,0 +1,12 @@
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\bin\Debug\netcoreapp3.1\College-Database.Contracts.deps.json
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\bin\Debug\netcoreapp3.1\College-Database.Contracts.dll
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\bin\Debug\netcoreapp3.1\College-Database.Contracts.pdb
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\bin\Debug\netcoreapp3.1\College_Database.Core.dll
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\bin\Debug\netcoreapp3.1\College_Database.Core.pdb
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\obj\Debug\netcoreapp3.1\College-Database.Contracts.csprojAssemblyReference.cache
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\obj\Debug\netcoreapp3.1\College-Database.Contracts.AssemblyInfoInputs.cache
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\obj\Debug\netcoreapp3.1\College-Database.Contracts.AssemblyInfo.cs
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\obj\Debug\netcoreapp3.1\College-Database.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\obj\Debug\netcoreapp3.1\College-Database.Contracts.csproj.CopyComplete
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\obj\Debug\netcoreapp3.1\College-Database.Contracts.dll
+C:\Users\onith\source\repos\College-Database\College-Database.Contracts\obj\Debug\netcoreapp3.1\College-Database.Contracts.pdb
